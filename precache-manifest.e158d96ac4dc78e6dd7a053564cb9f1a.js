@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "./static/media/gallery-3.5b3aea7d.jpg"
   },
   {
-    "revision": "ed23a13d5f775a1b24f0",
-    "url": "./static/css/main.94453fbb.chunk.css"
+    "revision": "8afde471443dac7b3bb9",
+    "url": "./static/css/main.dfc2dd18.chunk.css"
   },
   {
     "revision": "9eb600ee07a27cdad64f",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "./static/media/gallery-2.4564aad3.jpg"
   },
   {
-    "revision": "ed23a13d5f775a1b24f0",
+    "revision": "8afde471443dac7b3bb9",
     "url": "./static/js/main.79526f62.chunk.js"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "./static/media/sofa-2.5a263690.jpg"
   },
   {
-    "revision": "3308c53919609a37d373211812cd83d0",
+    "revision": "01ca4e5c1b5e2f4411071578b1b7050c",
     "url": "./index.html"
   }
 ];
