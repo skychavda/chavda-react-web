@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7098d36de35a0672c045cab29cb306c8",
-    "url": "./static/media/sofa-16.7098d36d.jpg"
+    "revision": "98135d095ab37dd6b46b4812ab0d3b8e",
+    "url": "./static/media/sofa-20.98135d09.jpg"
   },
   {
-    "revision": "931a2e52c9ab05dd8fa7",
-    "url": "./static/css/main.b45533ae.chunk.css"
+    "revision": "d51e2226322c99472d63",
+    "url": "./static/css/main.6c361ecc.chunk.css"
   },
   {
     "revision": "9eb600ee07a27cdad64f",
@@ -16,32 +16,16 @@ self.__precacheManifest = [
     "url": "./static/media/header.853292e1.jpg"
   },
   {
-    "revision": "8eb029c86d5e8da1168a",
-    "url": "./static/js/2.a103177c.chunk.js"
+    "revision": "ea299fa96121867b8855",
+    "url": "./static/js/2.ced98d3a.chunk.js"
   },
   {
-    "revision": "bd46ed63575654512063d305b8ee71fc",
-    "url": "./static/media/gallery-8.bd46ed63.jpg"
+    "revision": "74a06148231b37b35922684f3fce9ce2",
+    "url": "./static/media/sofa-5.74a06148.jpg"
   },
   {
-    "revision": "757420552da416e03cb6fc3913990c57",
-    "url": "./static/media/gallery-1.75742055.jpg"
-  },
-  {
-    "revision": "5eea7efad14db1324ee9b70a28a52aa5",
-    "url": "./static/media/gallery-2.5eea7efa.jpg"
-  },
-  {
-    "revision": "bddaa33f8999b8f7e264a066ddee1f34",
-    "url": "./static/media/gallery-3.bddaa33f.jpg"
-  },
-  {
-    "revision": "3b609866e75197993b90036a068d1bc4",
-    "url": "./static/media/gallery-4.3b609866.jpg"
-  },
-  {
-    "revision": "670ab7d0d36c1bce0211d8d70de1fc5f",
-    "url": "./static/media/gallery-5.670ab7d0.jpg"
+    "revision": "56f004365e36b40c7397de77b018fd8b",
+    "url": "./static/media/sofa-7.56f00436.jpg"
   },
   {
     "revision": "4a538f8db6ce02b602e51aa10ab02fa9",
@@ -68,16 +52,8 @@ self.__precacheManifest = [
     "url": "./static/media/sofa-4.c83c0306.jpg"
   },
   {
-    "revision": "74a06148231b37b35922684f3fce9ce2",
-    "url": "./static/media/sofa-5.74a06148.jpg"
-  },
-  {
     "revision": "f16fc0a43af21847e02e3827bb84defd",
     "url": "./static/media/sofa-6.f16fc0a4.jpg"
-  },
-  {
-    "revision": "56f004365e36b40c7397de77b018fd8b",
-    "url": "./static/media/sofa-7.56f00436.jpg"
   },
   {
     "revision": "a5bb57f1fed4ccb1fbff19094aa06546",
@@ -112,8 +88,8 @@ self.__precacheManifest = [
     "url": "./static/media/sofa-15.07af4c03.jpg"
   },
   {
-    "revision": "931a2e52c9ab05dd8fa7",
-    "url": "./static/js/main.61d7ef97.chunk.js"
+    "revision": "7098d36de35a0672c045cab29cb306c8",
+    "url": "./static/media/sofa-16.7098d36d.jpg"
   },
   {
     "revision": "a99e7ef469002cb954fb9f50157e5cb2",
@@ -128,8 +104,8 @@ self.__precacheManifest = [
     "url": "./static/media/sofa-19.9b8527a1.jpg"
   },
   {
-    "revision": "98135d095ab37dd6b46b4812ab0d3b8e",
-    "url": "./static/media/sofa-20.98135d09.jpg"
+    "revision": "d51e2226322c99472d63",
+    "url": "./static/js/main.855dfba1.chunk.js"
   },
   {
     "revision": "b6ca3d38619f46149a6467720a6a66d7",
@@ -216,11 +192,19 @@ self.__precacheManifest = [
     "url": "./static/media/lounger-9.83ad66f2.jpg"
   },
   {
-    "revision": "8eb029c86d5e8da1168a",
+    "revision": "e10c38fc76f77e18cdd77e8471c56503",
+    "url": "./static/media/HindMadurai-Regular.e10c38fc.ttf"
+  },
+  {
+    "revision": "0eb87cf973d239c2e177e79848e3cedb",
+    "url": "./static/media/HindMadurai-Bold.0eb87cf9.ttf"
+  },
+  {
+    "revision": "ea299fa96121867b8855",
     "url": "./static/css/2.c053bd62.chunk.css"
   },
   {
-    "revision": "811e0f6e3219281e04f85adab6f2fd5d",
+    "revision": "f7fe7c3e9c67e45de9fc66d3124eda42",
     "url": "./index.html"
   }
 ];
